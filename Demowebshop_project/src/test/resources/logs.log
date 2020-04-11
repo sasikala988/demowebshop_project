@@ -1,0 +1,56 @@
+2020-04-11 11:43:51 INFO  tcregister:75 - opening browser
+2020-04-11 11:43:52 INFO  tcregister:75 - registrationpage opened
+2020-04-11 11:43:52 INFO  tcregister:75 - enter first name
+2020-04-11 11:43:52 INFO  tcregister:75 - enter last name
+2020-04-11 11:43:52 INFO  tcregister:75 - enter email
+2020-04-11 11:43:53 INFO  tcregister:75 - enter first password
+2020-04-11 11:43:59 INFO  tclogin:49 - launching broswer
+2020-04-11 11:44:00 INFO  tclogin:49 - entered login details
+2020-04-11 11:54:20 INFO  tcregister:75 - opening browser
+2020-04-11 11:54:21 INFO  tcregister:75 - registrationpage opened
+2020-04-11 11:54:22 INFO  tcregister:75 - enter first name
+2020-04-11 11:54:22 INFO  tcregister:75 - enter last name
+2020-04-11 11:54:22 INFO  tcregister:75 - enter email
+2020-04-11 11:54:22 INFO  tcregister:75 - enter first password
+2020-04-11 11:54:28 INFO  tclogin:49 - launching broswer
+2020-04-11 11:54:29 INFO  tclogin:49 - entered login details
+2020-04-11 13:15:38 INFO  tcregister:75 - opening browser
+2020-04-11 13:15:40 INFO  tcregister:75 - registrationpage opened
+2020-04-11 13:15:40 INFO  tcregister:75 - enter first name
+2020-04-11 13:15:40 INFO  tcregister:75 - enter last name
+2020-04-11 13:15:40 INFO  tcregister:75 - enter email
+2020-04-11 13:15:40 INFO  tcregister:75 - enter first password
+2020-04-11 13:15:46 INFO  tclogin:49 - launching broswer
+2020-04-11 13:15:47 INFO  tclogin:49 - entered login details
+2020-04-11 13:16:37 INFO  tcregister:75 - opening browser
+2020-04-11 13:16:38 INFO  tcregister:75 - registrationpage opened
+2020-04-11 13:16:38 INFO  tcregister:75 - enter first name
+2020-04-11 13:16:38 INFO  tcregister:75 - enter last name
+2020-04-11 13:16:38 INFO  tcregister:75 - enter email
+2020-04-11 13:16:38 INFO  tcregister:75 - enter first password
+2020-04-11 13:16:46 INFO  tclogin:49 - launching broswer
+2020-04-11 13:16:47 INFO  tclogin:49 - entered login details
+2020-04-11 13:17:27 INFO  tcregister:75 - opening browser
+2020-04-11 13:17:28 INFO  tcregister:75 - registrationpage opened
+2020-04-11 13:17:29 INFO  tcregister:75 - enter first name
+2020-04-11 13:17:29 INFO  tcregister:75 - enter last name
+2020-04-11 13:17:29 INFO  tcregister:75 - enter email
+2020-04-11 13:17:29 INFO  tcregister:75 - enter first password
+2020-04-11 13:17:39 INFO  tclogin:49 - launching broswer
+2020-04-11 13:17:40 INFO  tclogin:49 - entered login details
+2020-04-11 13:33:08 INFO  tcregister:75 - opening browser
+2020-04-11 13:33:09 INFO  tcregister:75 - registrationpage opened
+2020-04-11 13:33:09 INFO  tcregister:75 - enter first name
+2020-04-11 13:33:09 INFO  tcregister:75 - enter last name
+2020-04-11 13:33:09 INFO  tcregister:75 - enter email
+2020-04-11 13:33:09 INFO  tcregister:75 - enter first password
+2020-04-11 13:33:17 INFO  tclogin:49 - launching broswer
+2020-04-11 13:33:19 INFO  tclogin:49 - entered login details
+2020-04-11 13:34:20 INFO  tcregister:75 - opening browser
+2020-04-11 13:34:21 INFO  tcregister:75 - registrationpage opened
+2020-04-11 13:34:21 INFO  tcregister:75 - enter first name
+2020-04-11 13:34:21 INFO  tcregister:75 - enter last name
+2020-04-11 13:34:21 INFO  tcregister:75 - enter email
+2020-04-11 13:34:21 INFO  tcregister:75 - enter first password
+2020-04-11 13:34:29 INFO  tclogin:49 - launching broswer
+2020-04-11 13:34:31 INFO  tclogin:49 - entered login details
